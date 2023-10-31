@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### <!-- my-badges start -->
-### <!-- my-badges end -->
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <!--
 **nlsschim/nlsschim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
