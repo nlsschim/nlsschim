@@ -11,6 +11,7 @@
 
 <div id="view-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=nlsschim&style=flat-square&color=blue" alt=""/>
+  *artificially inflated by me visiting my own profile
 </div>
 
 <h1>
