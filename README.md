@@ -1,4 +1,31 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/nlsschim/nlsschim/assets/58536665/8559fea0-fbb1-4492-b654-a8d52ac6de7c" width=200>
+</div>
+
+ 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nlsschim/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div id="view-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=nlsschim&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  Hey there 👋
+</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+ 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
+
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
@@ -21,10 +48,8 @@
 <a href="my-badges/rebel-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
 <!-- my-badges end -->
 
-<!--
-**nlsschim/nlsschim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+---
+### 👨‍💻 About me :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,4 +59,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nlsschim&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlsschim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
