@@ -64,7 +64,29 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python alt="Python3 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/numpy/numpy-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql/postgresql-orgiginal.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width=40>
+ 
 
+
+</div>
 
 ---
 
