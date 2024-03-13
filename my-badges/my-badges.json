@@ -17,14 +17,14 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ryansmcgee/seirsplus\">ryansmcgee/seirsplus: ★646</a>\n* <a href=\"https://github.com/UWSEDS/uwseds.github.io\">UWSEDS/uwseds.github.io: ★20</a>\n* <a href=\"https://github.com/nlsschim/NN-s-for-traumatic-brain-injury\">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>\n* <a href=\"https://github.com/nlsschim/pyimagej_playground\">nlsschim/pyimagej_playground: ★1</a>\n* <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis\">nlsschim/Mouse-EEG-analysis: ★1</a>\n* <a href=\"https://github.com/Nance-Lab/diff_predictor\">Nance-Lab/diff_predictor: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ryansmcgee/seirsplus\">ryansmcgee/seirsplus: ★647</a>\n* <a href=\"https://github.com/UWSEDS/uwseds.github.io\">UWSEDS/uwseds.github.io: ★20</a>\n* <a href=\"https://github.com/nlsschim/NN-s-for-traumatic-brain-injury\">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>\n* <a href=\"https://github.com/nlsschim/pyimagej_playground\">nlsschim/pyimagej_playground: ★1</a>\n* <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis\">nlsschim/Mouse-EEG-analysis: ★1</a>\n* <a href=\"https://github.com/Nance-Lab/diff_predictor\">Nance-Lab/diff_predictor: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ryansmcgee/seirsplus\">ryansmcgee/seirsplus: ★646</a>\n* <a href=\"https://github.com/UWSEDS/uwseds.github.io\">UWSEDS/uwseds.github.io: ★20</a>\n* <a href=\"https://github.com/nlsschim/NN-s-for-traumatic-brain-injury\">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>\n* <a href=\"https://github.com/nlsschim/pyimagej_playground\">nlsschim/pyimagej_playground: ★1</a>\n* <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis\">nlsschim/Mouse-EEG-analysis: ★1</a>\n* <a href=\"https://github.com/Nance-Lab/diff_predictor\">Nance-Lab/diff_predictor: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ryansmcgee/seirsplus\">ryansmcgee/seirsplus: ★647</a>\n* <a href=\"https://github.com/UWSEDS/uwseds.github.io\">UWSEDS/uwseds.github.io: ★20</a>\n* <a href=\"https://github.com/nlsschim/NN-s-for-traumatic-brain-injury\">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>\n* <a href=\"https://github.com/nlsschim/pyimagej_playground\">nlsschim/pyimagej_playground: ★1</a>\n* <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis\">nlsschim/Mouse-EEG-analysis: ★1</a>\n* <a href=\"https://github.com/Nance-Lab/diff_predictor\">Nance-Lab/diff_predictor: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true"
   },
   {
@@ -122,7 +122,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/50\">#50</a>: change master to main\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/51\">#51</a>: Merge pull request #50 from Nance-Lab/master",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/17\">#17</a>: Update requirements.txt\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/50\">#50</a>: change master to main\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/51\">#51</a>: Merge pull request #50 from Nance-Lab/master\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/18\">#18</a>: Update python-package.yml\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/19\">#19</a>: Delete diff_viz/tests/test_mpt_data_class.py",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   }
 ]
