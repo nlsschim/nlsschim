@@ -38,7 +38,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/db068db7a47fc24e549854b6391ea8fb8f9500f5\">db068db</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/44817ddb383d7e65b9dd38ba5fcf364f20cb95c3\">44817dd</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/1d0c7d76eccfe221f10b6147f85158f111c6732a\">1d0c7d7</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/cf71d562b69057604a4c481a9c225ef2083555ba\">cf71d56</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/1aa0acf79dbdc80f12b4a4552a6d1633914c8a0c\">1aa0acf</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/729a873529c68ffe03a20adb2e817c0388fc9f3a\">729a873</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/mpt_diffusion_modes/commit/dfb66348278c36564542a2a77546af44ce9ce587\">dfb6634</a>\n- <a href=\"https://github.com/nlsschim/mpt_diffusion_modes/commit/dd2108e9b0a4f27c8c48dcf8da17af2872805e45\">dd2108e</a>\n- <a href=\"https://github.com/nlsschim/mpt_diffusion_modes/commit/930c1f7ebe49a5bc81dd10c5ab0857d7d19febb2\">930c1f7</a>\n- <a href=\"https://github.com/nlsschim/mpt_diffusion_modes/commit/733d6733e08b005ae101a2bb975e182572d38d9a\">733d673</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/db068db7a47fc24e549854b6391ea8fb8f9500f5\">db068db</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/44817ddb383d7e65b9dd38ba5fcf364f20cb95c3\">44817dd</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 41 times)\n2. to (used 39 times)\n3. update (used 38 times)\n4. for (used 33 times)\n5. from (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 42 times)\n2. to (used 39 times)\n3. update (used 38 times)\n4. for (used 33 times)\n5. from (used 30 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
