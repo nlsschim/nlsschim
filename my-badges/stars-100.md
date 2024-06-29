@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ryansmcgee/seirsplus">ryansmcgee/seirsplus: ★656</a>
+* <a href="https://github.com/ryansmcgee/seirsplus">ryansmcgee/seirsplus: ★657</a>
 * <a href="https://github.com/UWSEDS/uwseds.github.io">UWSEDS/uwseds.github.io: ★20</a>
 * <a href="https://github.com/nlsschim/NN-s-for-traumatic-brain-injury">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>
 * <a href="https://github.com/nlsschim/pyimagej_playground">nlsschim/pyimagej_playground: ★1</a>
