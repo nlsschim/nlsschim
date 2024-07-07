@@ -4,84 +4,84 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/af1ab133f52523e476633e2ea06bb71e6b2d9ca9\"><strong>a</strong>f1ab133f52523e476633e2ea06bb71e6b2d9ca9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/ab5887f6f5a2ffab45e5c1d055d9fd4783df8179\"><strong>ab</strong>5887f6f5a2ffab45e5c1d055d9fd4783df8179</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/ryansmcgee/seirsplus\">ryansmcgee/seirsplus: ★657</a>\n* <a href=\"https://github.com/UWSEDS/uwseds.github.io\">UWSEDS/uwseds.github.io: ★20</a>\n* <a href=\"https://github.com/nlsschim/NN-s-for-traumatic-brain-injury\">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>\n* <a href=\"https://github.com/nlsschim/pyimagej_playground\">nlsschim/pyimagej_playground: ★1</a>\n* <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis\">nlsschim/Mouse-EEG-analysis: ★1</a>\n* <a href=\"https://github.com/Nance-Lab/diff_predictor\">Nance-Lab/diff_predictor: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-100.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/ryansmcgee/seirsplus\">ryansmcgee/seirsplus: ★657</a>\n* <a href=\"https://github.com/UWSEDS/uwseds.github.io\">UWSEDS/uwseds.github.io: ★20</a>\n* <a href=\"https://github.com/nlsschim/NN-s-for-traumatic-brain-injury\">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>\n* <a href=\"https://github.com/nlsschim/pyimagej_playground\">nlsschim/pyimagej_playground: ★1</a>\n* <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis\">nlsschim/Mouse-EEG-analysis: ★1</a>\n* <a href=\"https://github.com/Nance-Lab/diff_predictor\">Nance-Lab/diff_predictor: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-500.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/0f5944b2c077396b4d4afb8d3de86ebf9c755a19\">0f5944b</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/7c44283f7236c024a2080873b1ce2a83732fefa5\">7c44283</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/af1ab133f52523e476633e2ea06bb71e6b2d9ca9\">af1ab13</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/a45b43f0557b47024a9a2be28c4553759735c478\">a45b43f</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/dd74a52e6b6257c36fb033d243f7ddf0c0f8f646\">dd74a52</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/261c939344249da023a6e07fc461f61c5cdddc1b\">261c939</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/77cb096a6386b8df179e0bd3e84f5beb50ede632\">77cb096</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/2a714ef21659dc9cb37e5ba0d816fbfa0b5192ec\">2a714ef</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/991792f2a70bbb1f867cfbabdf63a847dbca9abc\">991792f</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/008445daa353cf3d4343748e422a7c4a7f54bd74\">008445d</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/f664cee2fbe1d29891308dc13b8c426e00a75412\">f664cee</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/69562e93d439e5aa5abe2a316333b3b6a22a79a2\">69562e9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/0d632a5ca07ec4927a229062496111630559b7ce\">0d632a5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/0d632a5ca07ec4927a229062496111630559b7ce\">0d632a5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/e08941835aeb28f72f47a1d2f228b15004c994c4\">e089418</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/delorean/delorean.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/nlsschim/github-actions-for-ci/pull/2\">#2</a>: CI for Node",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
     "id": "public-keys-1",
@@ -95,34 +95,34 @@
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/Nance-Lab/diff_classifier/issues/42\">#42</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/the-ultimate-question/the-ultimate-question.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
     "body": "My favorite commit message words are:\n\n1. merge (used 43 times)\n2. update (used 43 times)\n3. to (used 39 times)\n4. for (used 35 times)\n5. from (used 30 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "rebel-coder",
     "tier": 0,
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/rebel-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/basketball_analysis/commit/ef5648fa6e646640509c08f26dd76f84cecf73e3\">ef5648f</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/eabc6e28b3538fd8ca8ac2c550555331e14d4144\">eabc6e2</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/8d89d2da38b779325c688e3054c7cd16c070735d\">8d89d2d</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/28ee4d9f53ea4a3745751d8cc4f7a43ec32fd52a\">28ee4d9</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/d7d37486b6941691111a4f67cc7e043343ed7d62\">d7d3748</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/88547130432993fb74ce822b51196f2e3dc009d0\">8854713</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/17\">#17</a>: Update requirements.txt\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/50\">#50</a>: change master to main\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/51\">#51</a>: Merge pull request #50 from Nance-Lab/master\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/18\">#18</a>: Update python-package.yml\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/19\">#19</a>: Delete diff_viz/tests/test_mpt_data_class.py",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/this-is-fine/this-is-fine.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
