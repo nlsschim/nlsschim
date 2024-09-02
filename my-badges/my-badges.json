@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/nlsschim/Mouse-EEG-analysis/commit/ae430869ea2265c1c82df2a81c717ad77600b588\"><strong>a</strong>e430869ea2265c1c82df2a81c717ad77600b588</a>",
+    "body": "- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/af1ab133f52523e476633e2ea06bb71e6b2d9ca9\"><strong>a</strong>f1ab133f52523e476633e2ea06bb71e6b2d9ca9</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/nlsschim/30daysofstreamlit/commit/ab315570907ff77d244666d2c36eda97aa0aae4c\"><strong>ab</strong>315570907ff77d244666d2c36eda97aa0aae4c</a>",
+    "body": "- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/ab5887f6f5a2ffab45e5c1d055d9fd4783df8179\"><strong>ab</strong>5887f6f5a2ffab45e5c1d055d9fd4783df8179</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -100,8 +100,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 43 times)\n2. merge (used 28 times)\n3. to (used 28 times)\n4. requirements.txt (used 26 times)\n5. for (used 25 times)",
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 43 times)\n2. update (used 43 times)\n3. to (used 39 times)\n4. for (used 35 times)\n5. from (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
