@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/af1ab133f52523e476633e2ea06bb71e6b2d9ca9\"><strong>a</strong>f1ab133f52523e476633e2ea06bb71e6b2d9ca9</a>",
+    "body": "- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/a617aac7256970dee964c2aa78f37ee7261c7767\"><strong>a</strong>617aac7256970dee964c2aa78f37ee7261c7767</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/a45b43f0557b47024a9a2be28c4553759735c478\">a45b43f</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/dd74a52e6b6257c36fb033d243f7ddf0c0f8f646\">dd74a52</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/261c939344249da023a6e07fc461f61c5cdddc1b\">261c939</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/77cb096a6386b8df179e0bd3e84f5beb50ede632\">77cb096</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/2a714ef21659dc9cb37e5ba0d816fbfa0b5192ec\">2a714ef</a>\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/991792f2a70bbb1f867cfbabdf63a847dbca9abc\">991792f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/73a124719bcdab72bae49ad8c6d1cfae6f96597c\">73a1247</a>\n- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/5c7a0132ece67cf706239c91dc096bae95e89a83\">5c7a013</a>\n- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/dceddb3e9a83f03fa7b7981591b64a7a258ec66c\">dceddb3</a>\n- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/bf14698ec1e265e4e774b819f84fd686bf6f2d32\">bf14698</a>\n- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/326f34c8203671e154116e58f6cc0db48830f003\">326f34c</a>\n- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/a617aac7256970dee964c2aa78f37ee7261c7767\">a617aac</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -100,8 +100,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 43 times)\n2. update (used 43 times)\n3. to (used 39 times)\n4. for (used 35 times)\n5. from (used 30 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 49 times)\n2. merge (used 44 times)\n3. to (used 39 times)\n4. for (used 35 times)\n5. from (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/17\">#17</a>: Update requirements.txt\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/50\">#50</a>: change master to main\n- <a href=\"https://github.com/Nance-Lab/diff_classifier/pull/51\">#51</a>: Merge pull request #50 from Nance-Lab/master\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/18\">#18</a>: Update python-package.yml\n- <a href=\"https://github.com/Nance-Lab/diff_visualizer/pull/19\">#19</a>: Delete diff_viz/tests/test_mpt_data_class.py",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/eabc6e28b3538fd8ca8ac2c550555331e14d4144\">eabc6e2</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/8d89d2da38b779325c688e3054c7cd16c070735d\">8d89d2d</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/28ee4d9f53ea4a3745751d8cc4f7a43ec32fd52a\">28ee4d9</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/d7d37486b6941691111a4f67cc7e043343ed7d62\">d7d3748</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/88547130432993fb74ce822b51196f2e3dc009d0\">8854713</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/03cab6d10d656dfe2ee62930b9e0b5ea82301266\">03cab6d</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
