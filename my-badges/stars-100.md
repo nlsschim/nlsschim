@@ -7,9 +7,9 @@ Repos:
 * <a href="https://github.com/ryansmcgee/seirsplus">ryansmcgee/seirsplus: ★660</a>
 * <a href="https://github.com/UWSEDS/uwseds.github.io">UWSEDS/uwseds.github.io: ★20</a>
 * <a href="https://github.com/nlsschim/NN-s-for-traumatic-brain-injury">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>
-* <a href="https://github.com/nlsschim/pyimagej_playground">nlsschim/pyimagej_playground: ★1</a>
 * <a href="https://github.com/nlsschim/Mouse-EEG-analysis">nlsschim/Mouse-EEG-analysis: ★1</a>
 * <a href="https://github.com/Nance-Lab/diff_predictor">Nance-Lab/diff_predictor: ★1</a>
+* <a href="https://github.com/nlsschim/pyimagej_playground">nlsschim/pyimagej_playground: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
