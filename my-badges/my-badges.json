@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 49 times)\n2. merge (used 44 times)\n3. to (used 39 times)\n4. for (used 35 times)\n5. from (used 31 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 50 times)\n2. merge (used 44 times)\n3. to (used 39 times)\n4. for (used 35 times)\n5. from (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/eabc6e28b3538fd8ca8ac2c550555331e14d4144\">eabc6e2</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/8d89d2da38b779325c688e3054c7cd16c070735d\">8d89d2d</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/28ee4d9f53ea4a3745751d8cc4f7a43ec32fd52a\">28ee4d9</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/d7d37486b6941691111a4f67cc7e043343ed7d62\">d7d3748</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/88547130432993fb74ce822b51196f2e3dc009d0\">8854713</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/03cab6d10d656dfe2ee62930b9e0b5ea82301266\">03cab6d</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   }
 ]
