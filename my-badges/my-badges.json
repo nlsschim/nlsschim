@@ -59,7 +59,7 @@
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/0d632a5ca07ec4927a229062496111630559b7ce\">0d632a5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/a4451ac80f44c66456f6898ac0d14d891682ef6f\">a4451ac</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 76 times)\n2. merge (used 50 times)\n3. pull (used 27 times)\n4. request (used 27 times)\n5. requirements.txt (used 26 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 76 times)\n2. merge (used 51 times)\n3. pull (used 28 times)\n4. request (used 28 times)\n5. requirements.txt (used 26 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
