@@ -49,6 +49,7 @@
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 <a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
+<a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
 <!-- my-badges end -->
 
 ---
