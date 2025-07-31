@@ -7,12 +7,12 @@ Repos:
 * <a href="https://github.com/ryansmcgee/seirsplus">ryansmcgee/seirsplus: ★671</a>
 * <a href="https://github.com/UWSEDS/uwseds.github.io">UWSEDS/uwseds.github.io: ★20</a>
 * <a href="https://github.com/nlsschim/NN-s-for-traumatic-brain-injury">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>
+* <a href="https://github.com/npho/GrayMay2025">npho/GrayMay2025: ★2</a>
 * <a href="https://github.com/nlsschim/Mouse-EEG-analysis">nlsschim/Mouse-EEG-analysis: ★1</a>
 * <a href="https://github.com/Nance-Lab/diff_predictor">Nance-Lab/diff_predictor: ★1</a>
 * <a href="https://github.com/serrob23/nucleid_3d">serrob23/nucleid_3d: ★1</a>
 * <a href="https://github.com/nlsschim/pyimagej_playground">nlsschim/pyimagej_playground: ★1</a>
 * <a href="https://github.com/UWrc/RCC-hackathon-2025">UWrc/RCC-hackathon-2025: ★1</a>
-* <a href="https://github.com/npho/GrayMay2025">npho/GrayMay2025: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
