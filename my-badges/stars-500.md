@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ryansmcgee/seirsplus">ryansmcgee/seirsplus: ★671</a>
+* <a href="https://github.com/ryansmcgee/seirsplus">ryansmcgee/seirsplus: ★672</a>
 * <a href="https://github.com/UWSEDS/uwseds.github.io">UWSEDS/uwseds.github.io: ★20</a>
 * <a href="https://github.com/nlsschim/NN-s-for-traumatic-brain-injury">nlsschim/NN-s-for-traumatic-brain-injury: ★3</a>
 * <a href="https://github.com/npho/GrayMay2025">npho/GrayMay2025: ★2</a>
