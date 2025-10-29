@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/nlsschim/github-actions-for-ci/pull/2">#2</a>: CI for Node
+- <a href="https://github.com/Nance-Lab/TURMorIC/pull/7">#7</a>: Nels GitHub actions + codecov
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
