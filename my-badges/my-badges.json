@@ -145,5 +145,19 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/30daysofstreamlit/commit/ebf822523b1b8e560f8d0aaf2c6c57831f27248d\">ebf8225</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/codebase/commit/081fe6f15a4e02ae4d1c6cb93cdd0345a4eed81c\">081fe6f</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/5117e117fe32685bd353fd9f3f2cf9e218a90255\">5117e11</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/15de961aaacaca5b244d6a287ac92332888e6a60\">15de961</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/d11a1b81b6e3d5038737bb9a0c72c82b416cc127\">d11a1b8</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/cb1c8f9757c1181614f37127f4de370e79e64228\">cb1c8f9</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/dbbe7250e38ece2201a5f2896b6c97bab661258f\">dbbe725</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
