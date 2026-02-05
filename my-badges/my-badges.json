@@ -80,7 +80,7 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Nance-Lab/TURMorIC/pull/7\">#7</a>: Nels GitHub actions + codecov",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/nlsschim/github-actions-for-ci/pull/2\">#2</a>: CI for Node",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
