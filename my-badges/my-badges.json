@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/UWSEDS/uwseds.github.io/commit/a617aac7256970dee964c2aa78f37ee7261c7767\"><strong>a</strong>617aac7256970dee964c2aa78f37ee7261c7767</a>",
+    "body": "- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/a365816a22c1cfd27c6e405e0b06f7842bfe717e\"><strong>a</strong>365816a22c1cfd27c6e405e0b06f7842bfe717e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/ab5887f6f5a2ffab45e5c1d055d9fd4783df8179\"><strong>ab</strong>5887f6f5a2ffab45e5c1d055d9fd4783df8179</a>",
+    "body": "- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/abf2c101aaa01919b86020073a9130187a08517f\"><strong>ab</strong>f2c101aaa01919b86020073a9130187a08517f</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -28,13 +28,6 @@
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/0f5944b2c077396b4d4afb8d3de86ebf9c755a19\">0f5944b</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/7c44283f7236c024a2080873b1ce2a83732fefa5\">7c44283</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/af1ab133f52523e476633e2ea06bb71e6b2d9ca9\">af1ab13</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
@@ -45,7 +38,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/codebase/commit/8130186e4e1555fd10da56fa5d4412fb3cdef2de\">8130186</a>\n- <a href=\"https://github.com/UWrc/RCC-hackathon-2025/commit/e45a55f7d90f1f0012b0649d3570da35d7e5da9d\">e45a55f</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/e6007801121ca5e6a7299f89a9e478682a1567a1\">e600780</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/008445daa353cf3d4343748e422a7c4a7f54bd74\">008445d</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/f664cee2fbe1d29891308dc13b8c426e00a75412\">f664cee</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/69562e93d439e5aa5abe2a316333b3b6a22a79a2\">69562e9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/codebase/commit/8130186e4e1555fd10da56fa5d4412fb3cdef2de\">8130186</a>\n- <a href=\"https://github.com/UWrc/RCC-hackathon-2025/commit/e45a55f7d90f1f0012b0649d3570da35d7e5da9d\">e45a55f</a>\n- <a href=\"https://github.com/nlsschim/codebase/commit/e6007801121ca5e6a7299f89a9e478682a1567a1\">e600780</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -61,13 +54,6 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Nance-Lab/diff_predictor/commit/a4451ac80f44c66456f6898ac0d14d891682ef6f\">a4451ac</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/e08941835aeb28f72f47a1d2f228b15004c994c4\">e089418</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "covid-19",
@@ -94,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 76 times)\n2. merge (used 54 times)\n3. pull (used 28 times)\n4. request (used 28 times)\n5. requirements.txt (used 26 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 69 times)\n2. merge (used 29 times)\n3. requirements.txt (used 26 times)\n4. readme.md (used 23 times)\n5. commit (used 20 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +108,7 @@
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/eabc6e28b3538fd8ca8ac2c550555331e14d4144\">eabc6e2</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/8d89d2da38b779325c688e3054c7cd16c070735d\">8d89d2d</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/28ee4d9f53ea4a3745751d8cc4f7a43ec32fd52a\">28ee4d9</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/d7d37486b6941691111a4f67cc7e043343ed7d62\">d7d3748</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/88547130432993fb74ce822b51196f2e3dc009d0\">8854713</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/03cab6d10d656dfe2ee62930b9e0b5ea82301266\">03cab6d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/eabc6e28b3538fd8ca8ac2c550555331e14d4144\">eabc6e2</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/8d89d2da38b779325c688e3054c7cd16c070735d\">8d89d2d</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/28ee4d9f53ea4a3745751d8cc4f7a43ec32fd52a\">28ee4d9</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/d7d37486b6941691111a4f67cc7e043343ed7d62\">d7d3748</a>\n- <a href=\"https://github.com/nlsschim/nlsschim/commit/88547130432993fb74ce822b51196f2e3dc009d0\">8854713</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
@@ -131,13 +117,6 @@
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "winter-solstice-commits",
-    "tier": 0,
-    "desc": "I commit in the Winter solstice.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/c7f80c15e5d4710c832afcb3ea65160d58edd8f7\">c7f80c1</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/9134a95de786c37d0de52eca988903e4e52070f2\">9134a95</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/2be3a73ab962e31fb771ebc7345a05d9a3ea7308\">2be3a73</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/b17240655ab4bbf3d6b548d625e6e875f2338f90\">b172406</a>\n- <a href=\"https://github.com/nlsschim/Water-Pipe-Project/commit/1b84bf4dbdaa289d3c2b8c0ea8b3b4022a74bf8c\">1b84bf4</a>",
-    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
   },
   {
     "id": "public-keys-1",
