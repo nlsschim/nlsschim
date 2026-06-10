@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/Nance-Lab/TURMorIC/pull/5">#5</a>: Nels code cov
 - <a href="https://github.com/Nance-Lab/TURMorIC/pull/10">#10</a>: Nels GitHub actions
 
 
